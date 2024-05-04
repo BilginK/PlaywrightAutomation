@@ -54,6 +54,8 @@ test.only('E2E test', async ({ page }) => {
             break;
         }
     }
+//dosyalar degisiyor mu kontrol et bakalim
+
 
 });
 
